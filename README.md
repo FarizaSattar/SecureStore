@@ -50,11 +50,11 @@ This project is intended for **learning purposes only**, not production use.
 
 ```mermaid
 flowchart LR
-A[User Input (Tkinter UI)] --> B[Password Generator]
-B --> C[Credential Manager]
-C --> D[JSON Storage Layer]
-C --> E[Clipboard Integration]
-D --> F[Search & Retrieval Engine]
+A["User Input - Tkinter UI"] --> B["Password Generator"]
+B --> C["Credential Manager"]
+C --> D["JSON Storage Layer"]
+C --> E["Clipboard Integration"]
+D --> F["Search & Retrieval Engine"]
 F --> A
 ```
 
