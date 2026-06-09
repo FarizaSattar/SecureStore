@@ -1,4 +1,4 @@
-# 🔐 SecureStore - Improved Password Manager (main.py)
+# 🔐 SecureStore - Password Manager 
 
 from tkinter import *
 from tkinter import messagebox
